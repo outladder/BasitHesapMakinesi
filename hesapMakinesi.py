@@ -30,3 +30,6 @@ while True:
     if devam.lower() != "e":
         break
 #basit bir yorum satırı
+
+# şimdi de web üzerinden bir yorum satırı ekleme işlemi yapılıyor.
+
