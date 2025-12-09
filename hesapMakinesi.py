@@ -29,3 +29,4 @@ while True:
     devam = input("Devam? (e/h): ")
     if devam.lower() != "e":
         break
+#basit bir yorum satırı
